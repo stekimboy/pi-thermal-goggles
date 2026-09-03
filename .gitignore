@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.avi
+*.mp4
+*.log
+*.png
+!assets/*.png
+.DS_Store
+.vscode/
+.idea/

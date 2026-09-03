@@ -1,0 +1,14 @@
+TC001 Thermal Goggles
+Copyright 2026 Steven Kim
+
+This project integrates with and patches PyThermalCamera by Les Wright:
+https://github.com/leswright1977/PyThermalCamera
+
+PyThermalCamera is distributed under the Apache License 2.0. It credits
+thermal frame-format reverse engineering by LeoDJ (P2Pro-Viewer) and
+related EEVblog forum discussion.
+
+Original work in this repository: Raspberry Pi composite-video
+integration, the installer and uninstaller, the NumPy compatibility and
+wearable-display patches, launcher and autostart configuration, the
+verification script, build photos, and documentation.
